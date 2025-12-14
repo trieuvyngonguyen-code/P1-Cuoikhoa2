@@ -52,14 +52,3 @@ Chương trình giúp người dùng tính toán lượng nhiên liệu tiêu th
 ### Vòng lặp chính
 
 Cho phép người dùng tính toán nhiều lượt đến khi nhập `n`.
-
----
-
-## ▶ CÁCH CHẠY CHƯƠNG TRÌNH
-
-1. Mở thư mục chứa file `.py`
-2. Chạy lệnh:
-
-```bash
-python ten_file.py
-```
